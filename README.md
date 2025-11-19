@@ -1,4 +1,4 @@
-# Deteksi Ujaran Kebencian dan Emosi pada Komentar TikTok
+#  Deteksi Ujaran Kebencian pada Media sosial TikTok terkait kasus perceraian
 
 ## 🎯 Tujuan
 Proyek ini bertujuan untuk mengklasifikasikan emosi sekaligus mendeteksi ujaran kebencian pada komentar TikTok, khususnya pada kasus viral perceraian Arhan dan Zize. Hasilnya digunakan untuk memahami pola emosi dan persepsi masyarakat terhadap isu viral di media sosial.
